@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Bootstrap-rgb(83,33,156)?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </p>
 <br>
-Greetings visitor! I'm a senior student studying Software Engineering. Outside of my job and school-work, I like developing web and mobile-applications as personal projects. I enjoy programming in Python, Java JavaScript and C++, and I enjoy learning new tools and programming languages, and taking on tasks outside my comfort zone.
+Greetings visitor! I'm a senior student studying Software Engineering. Outside of my job and school-work, I like developing web and mobile-applications as personal projects. I enjoy programming in Python, Java JavaScript and C++, and I enjoy learning new tools and programming languages, and taking on tasks outside my comfort zone.<br>
 
 - 🤯 Currently learning React.js, Apache Spark and Tenserflow.
 - 👨‍💻 Interests lie in full-stack development, data-science, and machine-learning
