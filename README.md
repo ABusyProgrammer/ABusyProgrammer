@@ -1,6 +1,6 @@
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abusyprogrammer&show_icons=true&theme=tokyonight&line_height=27" height="224px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusyprogrammer&hide=css,lua,html&theme=tokyonight" height="224px">
+  <img src="https://github-readme-stats.vercel.app/api?username=abusyprogrammer&show_icons=true&theme=tokyonight&line_height=27" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusyprogrammer&hide=css,lua,html&theme=tokyonight" height="200px">
 </p>
 
 <img src="https://img.shields.io/badge/-Python-225765?style=flat-square&logo=Python&logoColor=white"/>
