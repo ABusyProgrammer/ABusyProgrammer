@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusyprogrammer&hide=css,lua,html&theme=tokyonight" height="200px">
 </p>
 
-<p>
+<div style="align-items: center">
     <img src="https://img.shields.io/badge/-Python-225765?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-E51837?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=323330"/>
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bing Maps-007E6E?style=flat-square&logo=Bing&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bootstrap-rgb(83,33,156)?style=flat-square&logo=Bootstrap&logoColor=white"/>
-</p>
+</div>
 
 Greetings visitor! I'm a senior student studying Software Engineering. Outside of my job and school-work, I like developing web and mobile-applications as personal projects. I enjoy programming in Python, Java JavaScript and C++, and I enjoy learning new tools and programming languages, and taking on tasks outside my comfort zone.
 
