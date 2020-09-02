@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusyprogrammer&hide=css,lua,html&theme=tokyonight" height="200px">
 </p>
 
-<div style="width: 90%; margin: auto">
+<div style="display: flex; justify-content: center">
     <img src="https://img.shields.io/badge/-Python-225765?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-E51837?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=323330"/>
