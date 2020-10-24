@@ -35,7 +35,7 @@
 Greetings visitor! I'm a senior student studying Software Engineering. Outside of my job and school-work, I like developing web and mobile-applications as personal projects. I enjoy programming in Python, Java JavaScript and C++, and I enjoy learning new tools and programming languages, and taking on tasks outside my comfort zone.<br>
 <br>
 
-- 🤯 Currently learning React.js, Apache Spark and Tenserflow.
+- 👨‍🎓 Currently learning Software Engineering, graduating in May 2021.
 - 👨‍💻 Interests lie in full-stack development, data-science, and machine-learning
 - 🤖 Frequent [StackOverflow](https://stackoverflow.com/users/7310344/busyprogrammer) contributor
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/aryankukreja/)
