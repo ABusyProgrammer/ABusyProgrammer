@@ -32,10 +32,9 @@
     <img src="https://img.shields.io/badge/-Bootstrap-rgb(83,33,156)?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </p>
 <br>
-Greetings visitor! I'm a senior student studying Software Engineering. Outside of my job and school-work, I like developing web and mobile-applications as personal projects. I enjoy programming in Python, Java JavaScript and C++, and I enjoy learning new tools and programming languages, and taking on tasks outside my comfort zone.<br>
-<br>
+Greetings visitor! I'm a software engineering graduate from Ontario Tech University (formerly UOIT). Outside of my work, I enjoy working on full-stack development projects, exploring new tools and technologies, and I am looking on expanding my data science and artificial intelligence skills.
 
-- 👨‍🎓 Currently learning Software Engineering, graduating in May 2021.
+- 👨‍🎓 Currently learning Software Engineering, graduating in June 2021.
 - 👨‍💻 Interests lie in full-stack development, data-science, and machine-learning
 - 🤖 Frequent [StackOverflow](https://stackoverflow.com/users/7310344/busyprogrammer) contributor
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/aryankukreja/)
